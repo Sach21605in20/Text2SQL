@@ -206,9 +206,3 @@ The injected context tells GPT-4 *exactly* which tables and columns exist, their
 | Database | PostgreSQL 15 (psycopg2) |
 | Language | Python 3.11 |
 
----
-
-
-## 📄 License
-
-MIT License — see [`LICENSE`](LICENSE) for details.
